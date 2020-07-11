@@ -6,4 +6,4 @@ To toggle between random or fixed mode the 'Debug mode' check box has to be tick
 Additional feature
 - Sound effect on win, loose and rolling.
 
-To start project, just open `index.html`
+To start project, just serve `index.html` on a port
